@@ -8,6 +8,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Owin" Version="1.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="1.1.1" />
     <PackageReference Include="mysql.data" Version="7.0.7-m61" />
-    <PackageReference Include="nancy" Version="2.0.0-clinteastwood" />
+    <PackageReference Include="nancy" Version="2.0.0" />
   </ItemGroup>
 </Project>
